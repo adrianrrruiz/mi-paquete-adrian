@@ -1,0 +1,23 @@
+{
+  "name": "mi-paquete-adrian",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianrrruiz/mi-paquete-adrian.git"
+  },
+  "author": "Adrian Ruiz <adrianrrruiz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adrianrrruiz/mi-paquete-adrian/issues"
+  },
+  "homepage": "https://github.com/adrianrrruiz/mi-paquete-adrian#readme",
+  "bin":{
+    "mi-paquete-adrian": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
